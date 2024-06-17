@@ -6,4 +6,4 @@
 - `h1` Element Name
 - `Hello World!` Element Content
 
-# Exploring HTML Attributes
+# Getting Started with CSS
