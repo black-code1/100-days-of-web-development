@@ -6,4 +6,4 @@
 - `h1` Element Name
 - `Hello World!` Element Content
 
-# The HTML Document Skeleton & Metadata
+# Visual Studio Shortcuts & Tricks
