@@ -6,4 +6,4 @@
 - `h1` Element Name
 - `Hello World!` Element Content
 
-# You can Nest HTML Elements!
+# Using Global CSS Styles
