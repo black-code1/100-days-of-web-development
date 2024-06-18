@@ -6,4 +6,4 @@
 - `h1` Element Name
 - `Hello World!` Element Content
 
-# Using Global CSS Styles
+# CSS Code Formatting
