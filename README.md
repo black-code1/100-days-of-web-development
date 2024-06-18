@@ -6,4 +6,4 @@
 - `h1` Element Name
 - `Hello World!` Element Content
 
-# CSS Code Formatting
+# The HTML Document Skeleton & Metadata
