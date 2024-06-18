@@ -6,4 +6,4 @@
 - `h1` Element Name
 - `Hello World!` Element Content
 
-# Working with Colors
+# Working with the Browser Developer Tools
