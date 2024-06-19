@@ -6,4 +6,4 @@
 - `h1` Element Name
 - `Hello World!` Element Content
 
-# Storing CSS Code in External Files - Day-04
+# The Void Element Syntax - Day-04
