@@ -6,4 +6,6 @@
 - `h1` Element Name
 - `Hello World!` Element Content
 
-# Selecting Single Elements with the ID Selector - Day-04
+# Working with "font-size" and "px" - Day-04
+- Absolute `px` A device-independent pixel on the screen
+- Relative `rem`, `%`
