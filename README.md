@@ -6,4 +6,4 @@
 - `h1` Element Name
 - `Hello World!` Element Content
 
-# Why it's Called Cascading Style Sheets - Day-04
+# Storing CSS Code in External Files - Day-04
