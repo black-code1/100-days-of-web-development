@@ -10,4 +10,4 @@
 - Absolute `px` A device-independent pixel on the screen
 - Relative `rem`, `%`
 
-# Using Other Fonts from Google Fonts
+# Understanding How HTML & CSS Handle Text & Whitespace
