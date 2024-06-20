@@ -14,4 +14,7 @@
 - `border-radius: 100px` makes a circle because it is half the width of `width:200px; height:200px`
 - `text-align: center` align the content not the element
 
-# Adding a Second HTML File
+# A Word About File Name Conventions
+There's also one important characteristic which you maybe noticed about all these filenames: They are all lowercase.
+
+And that's important! Whilst it's technically not required, it is a very common convention that you name your files all-lowercase, with no special characters except for dashes (-). If your file name consists of multiple words, you should NOT separate them with blanks (whitespace) but instead use dashes. So use `online-shop.html` instead of `Online Shop.html`.
