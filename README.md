@@ -28,3 +28,5 @@ And that's important! Whilst it's technically not required, it is a very common 
 - It has no content, it's configured with attributes only.
 ## Which of the following file names would be a good choice for a second HTML file that shows some contact details about the page owner?
 - `contact.html`
+# Assignment 1: Time to Practice - Your First Challenge! 
+You already learned a lot about HTML and CSS - time to test your new knowledge in this assignment!
