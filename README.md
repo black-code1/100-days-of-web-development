@@ -10,4 +10,4 @@
 - Absolute `px` A device-independent pixel on the screen
 - Relative `rem`, `%`
 
-# Understanding How HTML & CSS Handle Text & Whitespace
+# Adding an Image
