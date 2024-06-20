@@ -13,3 +13,5 @@
 # Styling the Image & Using the Body Tag
 - `border-radius: 100px` makes a circle because it is half the width of `width:200px; height:200px`
 - `text-align: center` align the content not the element
+
+# Styling the Overall Page Background
