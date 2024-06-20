@@ -18,3 +18,13 @@
 There's also one important characteristic which you maybe noticed about all these filenames: They are all lowercase.
 
 And that's important! Whilst it's technically not required, it is a very common convention that you name your files all-lowercase, with no special characters except for dashes (-). If your file name consists of multiple words, you should NOT separate them with blanks (whitespace) but instead use dashes. So use `online-shop.html` instead of `Online Shop.html`.
+
+# Learning Check: More HTML & CSS Features
+## What's a "pseudo-selector"?
+- A CSS selector like :hover that allows you to set styles for an element that fulfils a certain condition (e.g. the mouse cursor hovers over it).
+## Why is it called "Cascading Style Sheets"
+- Because more than one CSS rule may apply to the same element.
+## What's special about the <img> element?
+- It has no content, it's configured with attributes only.
+## Which of the following file names would be a good choice for a second HTML file that shows some contact details about the page owner?
+- `contact.html`
