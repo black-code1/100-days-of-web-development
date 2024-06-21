@@ -42,3 +42,5 @@ This "web server software" (i.e. the "Live Server" extension in this case) is a 
 - `Inheritance` (Selected) container rules apply to descendants
 - `Cascading` Multiple rules can be applied to the same element
 - `Specificity` More specific selector's rule wins over less specific selector
+
+### Styling the Full Week Page
