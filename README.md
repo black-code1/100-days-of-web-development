@@ -33,4 +33,7 @@ And that's important! Whilst it's technically not required, it is a very common 
 You already learned a lot about HTML and CSS - time to test your new knowledge in this assignment!
 
 # Section 3: Diving Deeper Into HTML & CSS
-## Using the Live Server Extension
+## The Development Server & The Local Website Address
+### What Is A "Development Web Server"?
+It's a "local development web server" because it's a web server software that serves the website locally, on our machine.
+This "web server software" (i.e. the "Live Server" extension in this case) is a software that does actually listen for incoming HTTP requests and send back appropriate responses (that contain the HTML code for example). 
