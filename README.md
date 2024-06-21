@@ -33,4 +33,4 @@ And that's important! Whilst it's technically not required, it is a very common 
 You already learned a lot about HTML and CSS - time to test your new knowledge in this assignment!
 
 # Section 3: Diving Deeper Into HTML & CSS
-## Module Introduction
+## Using the Live Server Extension
