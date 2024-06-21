@@ -32,4 +32,5 @@ And that's important! Whilst it's technically not required, it is a very common 
 # Assignment 1: Time to Practice - Your First Challenge! 
 You already learned a lot about HTML and CSS - time to test your new knowledge in this assignment!
 
-# Summary
+# Section 3: Diving Deeper Into HTML & CSS
+## Module Introduction
