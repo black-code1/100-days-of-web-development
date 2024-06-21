@@ -38,4 +38,7 @@ You already learned a lot about HTML and CSS - time to test your new knowledge i
 It's a "local development web server" because it's a web server software that serves the website locally, on our machine.
 This "web server software" (i.e. the "Live Server" extension in this case) is a software that does actually listen for incoming HTTP requests and send back appropriate responses (that contain the HTML code for example). 
 
-### Understanding Parents, Children, Containers & More
+### Understanding Cascading, Inheritance & Specificity
+- `Inheritance` (Selected) container rules apply to descendants
+- `Cascading` Multiple rules can be applied to the same element
+- `Specificity` More specific selector's rule wins over less specific selector
