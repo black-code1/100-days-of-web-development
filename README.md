@@ -50,3 +50,5 @@ This "web server software" (i.e. the "Live Server" extension in this case) is a 
 | ID - #id                           | child - h2 > p - Only p which are direct children of h2 |
 | Group - element name, element name |                                                         |
 | Class - .class                     |                                                         |
+
+## Using Selectors & Combinators
