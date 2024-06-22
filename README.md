@@ -51,4 +51,4 @@ This "web server software" (i.e. the "Live Server" extension in this case) is a 
 | Group - element name, element name |                                                         |
 | Class - .class                     |                                                         |
 
-## Understanding Classes
+## Block vs Inline Elements
