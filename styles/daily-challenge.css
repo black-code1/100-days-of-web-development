@@ -16,8 +16,21 @@ img {
     margin-top: -134px; /*(height: 200px +  border top and bottom (5px + 5px)) / 2 = -105 - 29px = -134*/
 }
 
+h1 {
+    font-size: 30px;
+    color: rgb(31, 25, 25);
+}
+
+a {
+    color: rgb(73, 29, 50);
+}
+
+span {
+    color: rgb(66, 2, 2);
+}
+
 #todays-challenge {
-    color: rgb(170, 96, 83);
+    color: rgb(75, 59, 59);
     font-weight: bold;
     font-size: 52px;
 }
