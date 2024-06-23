@@ -55,3 +55,5 @@ This "web server software" (i.e. the "Live Server" extension in this case) is a 
 - margin collapses only work for vertical margin and only happens for block element(for inline element we can't apply vertical margin)
 - The distance between the p description tag (block element) and a anchor tag (inline element) is 20px 
 - The margin of 12px of the h1 tag wins over the margin of 8px of the p tag.
+
+## The "box-shadow" Property
