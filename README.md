@@ -56,4 +56,4 @@ This "web server software" (i.e. the "Live Server" extension in this case) is a 
 - The distance between the p description tag (block element) and a anchor tag (inline element) is 20px 
 - The margin of 12px of the h1 tag wins over the margin of 8px of the p tag.
 
-## Styling the Main Section
+## Styling Images & Working with Negative Margins
