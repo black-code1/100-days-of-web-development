@@ -1,1 +1,1 @@
-# Styling List Items & Links
+# Adding the Footer
