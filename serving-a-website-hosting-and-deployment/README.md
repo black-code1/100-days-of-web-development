@@ -3,3 +3,4 @@
 - **Hosting:** The remote machine ("server") hosts (stores) the website code and serves it to visitors
 # Hosting a First Static Website (Example Deployment on Netlify)
 - Netlify Drop
+# More Information On Netlify & HTTPS
