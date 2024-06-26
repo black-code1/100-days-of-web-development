@@ -1,1 +1,1 @@
-# Module Introduction
+# What are Git & GitHub?
