@@ -30,3 +30,4 @@
 # Creating a GitHub Account & a Remote Repository
 - **Create a README.md in profileName/ to write a presentation about you**
 - **There are two types of repository:** `local` and `remote` repository
+# Understanding the Personal Access Token & "git clone"
