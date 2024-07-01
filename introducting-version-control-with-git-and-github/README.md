@@ -30,4 +30,10 @@
 # Creating a GitHub Account & a Remote Repository
 - **Create a README.md in profileName/ to write a presentation about you**
 - **There are two types of repository:** `local` and `remote` repository
-# Collaborating on Projects - Collaborators & Organizations
+# Contributing to Projects - Forks & Pull Requests
+- **To contribute to projects:**
+- **You have to fork the repository**
+- **You have to clone the fork repository**
+- **Make changes**
+- **Commit changes**
+- **Create pull request**
