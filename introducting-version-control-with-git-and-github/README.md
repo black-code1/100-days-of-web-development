@@ -22,3 +22,8 @@
 - **To delete a branch you have to checkout of the branch you want to delete** `git branch -D feature`
 - **Reset your branch to the stage of the latest commit** `git checkout -- .` **undo all unstage changes** where you can `.` means every changes to discard, you could replace it with the name of the file you want to discard changes.
 - **To unstage changes** `git reset filenameyouwanttounstage.extension`
+# Onwards to GitHub - What & Why?
+- **Store our project into a cloud** - **Cloud Storage**
+- **Portfolio Page**
+- **Team Projects** - **Collaboration**
+- **Contribution**
