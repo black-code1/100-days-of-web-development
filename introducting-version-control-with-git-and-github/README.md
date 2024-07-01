@@ -37,3 +37,16 @@
 - **Make changes**
 - **Commit changes**
 - **Create pull request**
+# Wrap Up
+## Git
+- **git init**
+- **git add**
+- **git commit**
+- **git branch**
+- **git checkout -b**
+## GitHub
+- **git remote add origin**
+- **git push**
+- **git pull**
+- **git clone**
+- **Personal access token**
