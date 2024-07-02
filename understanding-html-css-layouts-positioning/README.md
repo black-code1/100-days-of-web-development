@@ -4,3 +4,4 @@
 - **Diving Deeper Into Units**
 # Positioning Elements
 - `static` **is the default position**
+# Styling the Hero Content
