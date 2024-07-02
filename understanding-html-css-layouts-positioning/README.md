@@ -4,4 +4,7 @@
 - **Diving Deeper Into Units**
 # Positioning Elements
 - `static` **is the default position**
-# Styling the Hero Content
+# Understanding Fixed & Absolute Positioning
+- **position** `absolute` **takes element out of the document flow and be position relative to the first ancestor which has position relative applied**
+- **position** `absolute` **relative to the html element when no ancestors had the position relative applied**
+- **position** `fixed` **relative to the viewport**
