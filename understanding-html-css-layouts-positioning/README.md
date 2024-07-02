@@ -2,4 +2,4 @@
 - **Working with (Background) Images**
 - **Understanding Flexbox & Grid**
 - **Diving Deeper Into Units**
-# Project Setup
+# Creating the Landing Page Structure
