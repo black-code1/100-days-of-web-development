@@ -2,4 +2,4 @@
 - **Working with (Background) Images**
 - **Understanding Flexbox & Grid**
 - **Diving Deeper Into Units**
-# Adding a Background Image
+# Creating a Container for the Hero-Content
