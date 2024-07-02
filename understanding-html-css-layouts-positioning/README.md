@@ -2,4 +2,4 @@
 - **Working with (Background) Images**
 - **Understanding Flexbox & Grid**
 - **Diving Deeper Into Units**
-# Adding the Page Logo
+# Adding the Page Navigation
