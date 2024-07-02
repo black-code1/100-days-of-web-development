@@ -2,4 +2,4 @@
 - **Working with (Background) Images**
 - **Understanding Flexbox & Grid**
 - **Diving Deeper Into Units**
-# Introducing CSS Flexbox
+# Adding Flex Items
