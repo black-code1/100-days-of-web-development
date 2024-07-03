@@ -10,4 +10,4 @@
 - **position** `fixed` **relative to the viewport**
 # Working with % Units & Creating a Top Navigation Bar
 - `box-sizing:border-box` **value only applies to content padding and border**
-# Flex Item Layout
+# Styling Images with "object-fit"
