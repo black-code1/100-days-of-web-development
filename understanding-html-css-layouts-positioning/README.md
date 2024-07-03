@@ -20,4 +20,4 @@ This property with center as value applied, centers the flex items along the mai
 Please add justify-content: center;  to this selector.
 
 Thank you :)
-# Understanding Parent - Child Margin Collapsing
+# Working with CSS Functions - Linear Gradients
