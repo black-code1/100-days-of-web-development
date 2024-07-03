@@ -20,4 +20,4 @@ This property with center as value applied, centers the flex items along the mai
 Please add justify-content: center;  to this selector.
 
 Thank you :)
-# The Next Step
+# Creating a Footer Section
