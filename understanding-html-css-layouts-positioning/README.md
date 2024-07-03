@@ -10,4 +10,4 @@
 - **position** `fixed` **relative to the viewport**
 # Working with % Units & Creating a Top Navigation Bar
 - `box-sizing:border-box` **value only applies to content padding and border**
-# Introducing the "Highlights" Section
+# Creating the HTML Code
