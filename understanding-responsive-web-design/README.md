@@ -13,3 +13,4 @@ a) Follow along the "Optional" lectures to revise the already learned concepts a
 b) Skip the "Optional" lectures and directly continue with the lectures about responsive design ("What is Responsive Design?")
 
 The choice is up to you, we recommend to also dive into the optional lectures as practicing is the best you can do on your way to become a web developer :)
+# Optional: Your Challenge - Creating the HTML Structure
