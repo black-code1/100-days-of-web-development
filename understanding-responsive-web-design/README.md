@@ -23,3 +23,6 @@ The choice is up to you, we recommend to also dive into the optional lectures as
 - **em** Size is relative to font-size
 - **em** Hard to manage due to cascading nature
 - **rem** Size is relative to root element's font-size
+- **rem** Preferred choice if applicable
+# Applying "em" & "rem" for the Font Size
+- **Note** Our overview is not the single truth. Unit choice is subject to personal preferences & individual project requirements.
