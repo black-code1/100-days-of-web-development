@@ -17,3 +17,9 @@ The choice is up to you, we recommend to also dive into the optional lectures as
 ## Comparing Units (specifically for font-size)
 - **px** Easy to understand & translatable
 - **px** Limited user focus & not scalable (increasing the width of the device does not affect the pixels)
+# Introducing "em" & "rem"
+- **%** Relative to parent element size
+- **%** Hard to manage due to cascading nature
+- **em** Size is relative to font-size
+- **em** Hard to manage due to cascading nature
+- **rem** Size is relative to root element's font-size
