@@ -13,4 +13,7 @@ a) Follow along the "Optional" lectures to revise the already learned concepts a
 b) Skip the "Optional" lectures and directly continue with the lectures about responsive design ("What is Responsive Design?")
 
 The choice is up to you, we recommend to also dive into the optional lectures as practicing is the best you can do on your way to become a web developer :)
-# What is Responsive Design
+# The Problem with Pixels
+## Comparing Units (specifically for font-size)
+- **px** Easy to understand & translatable
+- **px** Limited user focus & not scalable (increasing the width of the device does not affect the pixels)
