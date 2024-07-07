@@ -26,3 +26,6 @@ The choice is up to you, we recommend to also dive into the optional lectures as
 - **rem** Preferred choice if applicable
 # Applying "em" & "rem" for the Font Size
 - **Note** Our overview is not the single truth. Unit choice is subject to personal preferences & individual project requirements.
+# Deep Dive: "em" vs "rem" vs "%"
+- **%** refers to parent elements
+- **em** and **rem** are related to the font-size no matter which property the **em** and **rem** unit is actually apply to
