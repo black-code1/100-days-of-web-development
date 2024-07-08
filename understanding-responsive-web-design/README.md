@@ -29,3 +29,4 @@ The choice is up to you, we recommend to also dive into the optional lectures as
 # Deep Dive: "em" vs "rem" vs "%"
 - **%** refers to parent elements
 - **em** and **rem** are related to the font-size no matter which property the **em** and **rem** unit is actually apply to
+# Updating the Project Units
