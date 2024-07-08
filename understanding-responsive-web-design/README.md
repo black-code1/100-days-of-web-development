@@ -38,4 +38,9 @@ The choice is up to you, we recommend to also dive into the optional lectures as
 - **Landscape** `Notebook 1024px`
 - **Landscape** `Desktop Computer 1200px`
 - **Landscape** `TV >1200px`
-# Your Media Queries Challenge!
+# Side Drawer & Hamburger Icon - Theory
+- **Create clickable hamburger button in mobile view**
+- **Open side drawer on first button click**
+- **Close side drawer on second button click**
+- **Internal links** Adds defined ID to URL `href="#id"`
+- **The target selector** Activates CSS rules if defined ID is selected in URL `#id:target`
