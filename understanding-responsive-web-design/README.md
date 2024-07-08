@@ -29,4 +29,12 @@ The choice is up to you, we recommend to also dive into the optional lectures as
 # Deep Dive: "em" vs "rem" vs "%"
 - **%** refers to parent elements
 - **em** and **rem** are related to the font-size no matter which property the **em** and **rem** unit is actually apply to
-# Comparing Desktop & Mobile First Design
+# Understanding Media Queries
+- **Desktop First** `max-width`
+- **Mobile First** `min-width`
+## Common Breakpoints for Media Queries
+- **Portrait** `Smartphone 480px`
+- **Portrait** `Tablet 768px`
+- **Landscape** `Notebook 1024px`
+- **Landscape** `Desktop Computer 1200px`
+- **Landscape** `TV >1200px`
