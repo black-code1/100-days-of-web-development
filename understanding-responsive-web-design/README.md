@@ -38,4 +38,4 @@ The choice is up to you, we recommend to also dive into the optional lectures as
 - **Landscape** `Notebook 1024px`
 - **Landscape** `Desktop Computer 1200px`
 - **Landscape** `TV >1200px`
-# Adding Media Queries to the Project
+# Your Media Queries Challenge!
