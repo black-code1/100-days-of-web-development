@@ -44,4 +44,4 @@ The choice is up to you, we recommend to also dive into the optional lectures as
 - **Close side drawer on second button click**
 - **Internal links** Adds defined ID to URL `href="#id"`
 - **The target selector** Activates CSS rules if defined ID is selected in URL `#id:target`
-# Creating the Side Drawer
+# Understanding HTML Fragments
