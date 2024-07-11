@@ -7,4 +7,4 @@
 ## Understanding The Importance of Grey, Primary & Accent Colors
 - **Primary Color** `core identity`
 - **Accent Color** `badge`
-## Introducing CSS Variables / CSS Custom Properties
+## CSS Variables in Action
