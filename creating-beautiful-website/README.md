@@ -11,3 +11,6 @@
 - **html** `Selects html element (= root element of an html file)` **CSS rules are applied to html element & inherited to nested elements inside the html element**
 - **:root (pseudo-selector)** `Selects element which is the root of the document` **CSS rules are applied to root element & inherited to nested elements inside the root element**
 - **'*'** `Selects all elements of the html document` **CSS rules are applied to all elements (specificity must be considered though)**
+## Understanding CSS Transformations
+- **Transformation** `Move / change appearance of element, e.g. when hovering.`
+- **Transition** `Smooth transition from initial to transforme state.`
