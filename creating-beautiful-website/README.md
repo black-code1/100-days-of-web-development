@@ -14,3 +14,6 @@
 ## Understanding CSS Transformations
 - **Transformation** `Move / change appearance of element, e.g. when hovering.`
 - **Transition** `Smooth transition from initial to transforme state.`
+## Adding CSS Transitions
+- **Applied to "initial state" of the element, not on event triggering the transition.**
+- `transition: transform 0.5s ease-out 1s`
