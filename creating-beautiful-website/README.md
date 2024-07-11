@@ -17,3 +17,7 @@
 ## Adding CSS Transitions
 - **Applied to "initial state" of the element, not on event triggering the transition.**
 - `transition: transform 0.5s ease-out 1s`
+## Working with SVGs
+- **SVG** `Scalable Vector Graphics`
+- **SVG** `XML based markup language to describe two-dimensional vector graphics`
+- **SVG** `Text based description of skalable images that can be rendered by the browser.` - `heroicons.dev` - `heroicons.com`
