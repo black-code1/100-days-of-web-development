@@ -7,4 +7,7 @@
 ## Understanding The Importance of Grey, Primary & Accent Colors
 - **Primary Color** `core identity`
 - **Accent Color** `badge`
-## CSS Variables in Action
+## Comparing "root" vs "html" vs "*" Selectors
+- **html** `Selects html element (= root element of an html file)` **CSS rules are applied to html element & inherited to nested elements inside the html element**
+- **:root (pseudo-selector)** `Selects element which is the root of the document` **CSS rules are applied to root element & inherited to nested elements inside the root element**
+- **'*'** `Selects all elements of the html document` **CSS rules are applied to all elements (specificity must be considered though)**
