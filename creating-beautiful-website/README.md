@@ -4,4 +4,4 @@
 - **Add different features step-by-step**
 - **Think about the core information that should be transferred**
 - **Less is more - Don't overstyle your website**
-- ## Sizing & Spacing
+- ## Choosing the Right Font
