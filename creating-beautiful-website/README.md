@@ -4,4 +4,6 @@
 - **Add different features step-by-step**
 - **Think about the core information that should be transferred**
 - **Less is more - Don't overstyle your website**
-- ## Choosing the Right Font
+- ## Understanding The Importance of Grey, Primary & Accent Colors
+- **Primary Color** `core identity`
+- **Accent Color** `badge`
