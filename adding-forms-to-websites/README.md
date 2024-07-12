@@ -4,4 +4,4 @@
 - **<textarea>** `A multi-line text input field` 
 - **<select>** `A dropdown multiple-choice or multi-select input` 
 - **<button>** `A button to reset or submit the form` 
-# The Form Element, Form Submission & Different Types of Requests
+# Styling the Form Element
