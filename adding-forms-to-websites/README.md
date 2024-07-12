@@ -4,4 +4,4 @@
 - **<textarea>** `A multi-line text input field` 
 - **<select>** `A dropdown multiple-choice or multi-select input` 
 - **<button>** `A button to reset or submit the form` 
-# Adding Labels
+# More Detailed Forms Styling
