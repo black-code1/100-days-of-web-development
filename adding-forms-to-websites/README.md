@@ -14,4 +14,4 @@
 - **`<input type="checkbox">`** `A checkbox button: Can be used to present a "toggle" (yes / no) option to the visitor (e.g. "Agree to terms")`
 - **`<input type="file">`** `A file picker: Allows the user to pick a file (e.g. for image upload)`
 - **`...`** `More input types are available, not all are supported in all browsers though (e.g. see MDN reference)`
-# Challenge: Adding Remaining Elements
+# Challenge: Submission & Validation
